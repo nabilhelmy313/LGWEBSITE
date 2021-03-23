@@ -1,0 +1,98 @@
+.parent1{
+    position: relative;
+    text-align: right;
+}
+.child1{
+    position:absolute;
+    top: 40%;
+    left: 50%;
+    color: white;
+    text-align: right;
+
+}
+.parent2{
+    position: relative;
+    text-align: right;
+}
+.child2{
+    position:absolute;
+    top:30%;
+    left: 43%;
+    color: white;
+    text-align: right;
+
+}
+.parent3{
+    position: relative;
+    text-align: right;
+}
+.child3{
+    position:absolute;
+    top: 40%;
+    left: 10%;
+    color: black;
+    text-align: right;
+
+}
+.parent4{
+    position: relative;
+    text-align: right;
+}
+.child4{
+    position:absolute;
+    top: 40%;
+    left:10%;
+    color: white;
+    text-align: right;
+    width: 30%;
+
+}
+.btnred{
+    background-color: #CC0041;
+    color: white;
+}
+.support{
+    position: relative;
+}
+.supporttxt{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    text-align: center;
+}
+.aircodition{
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+.carousel-inner{
+   background-color:  #F5F5F5;
+}
+.carditem{
+    background-color: white;
+}
+.ovel{
+    position: relative;
+}
+.oveltxt{
+    position:absolute;
+    top:60%;
+    color: white;
+    text-align: center;
+margin: auto;    
+}
+.topfoot{
+    background-color: #F5F5F5;
+}
+.bottom-links{
+    color:white
+}
+.rightlinks{
+    color: white;
+    text-align: right;
+}
+.fixedbar{
+    position: fixed;
+    top:50%;
+    background-color: black;
+}
